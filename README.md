@@ -1,8 +1,27 @@
-# Welcome to your Expo app 👋
+# EXPO - Mobile Development Learning 📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This repository contains my journey learning mobile development with Expo and React Native. The main project is a Todo application that demonstrates various Expo features and best practices.
 
-## Get started
+## 📚 What I'm Learning
+
+- Expo framework fundamentals
+- React Native components and styling
+- File-based routing with Expo Router
+- Mobile app state management
+- Cross-platform development (iOS/Android)
+
+## 🚀 Projects
+
+### 1. Todo App
+
+A simple but functional todo list application showcasing basic CRUD operations.
+
+#### Features
+
+- Add, edit, and delete todos
+- [Add more features as you implement them]
+
+#### Getting Started
 
 1. Install dependencies
 
@@ -13,38 +32,37 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Expo
+- React Native
+- TypeScript
+- [Add other technologies as you use them]
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📖 Learning Resources
 
-## Get a fresh project
+- [Expo documentation](https://docs.expo.dev/)
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/)
+- [React Native documentation](https://reactnative.dev/)
 
-When you're ready, run:
+## 📝 Notes
 
-```bash
-npm run reset-project
-```
+This is a learning project where I document my progress and experiments with Expo development. Feel free to explore the code and suggest improvements!
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🤝 Contributing
 
-## Learn more
+While this is primarily a learning project, suggestions and feedback are welcome! Feel free to:
 
-To learn more about developing your project with Expo, look at the following resources:
+1. Fork the repo
+2. Create a feature branch
+3. Submit a pull request
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📄 License
 
-## Join the community
+This project is open source and available under the [MIT License](LICENSE).
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
